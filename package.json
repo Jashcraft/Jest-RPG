@@ -1,0 +1,22 @@
+{
+  "name": "jest-rpg",
+  "version": "1.0.0",
+  "description": "Jest-RPG Package-json",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jashcraft/Jest-RPG.git"
+  },
+  "author": "Jackal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jashcraft/Jest-RPG/issues"
+  },
+  "homepage": "https://github.com/Jashcraft/Jest-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
